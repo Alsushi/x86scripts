@@ -1,0 +1,13 @@
+$new-alias grep findster
+findster /S "teal" *.html | % { $_ -replace "teal"," " }
+
+$new-alias gc get-content
+ls *.html -rec | %{ $f=$_; (get-content $f.PSPath) | %{ $_ -replace "teal", " " } | sc $f.PSPath }
+
+$htFiles = Get-ChildItem . *.html -rec
+foreach ($file in $htFiles)
+{
+    (Get-Content $file.PSPath) |
+    Foreach-Object { $_ -replace "teal", " " } |
+    Set-Content $file.PSPath
+}
