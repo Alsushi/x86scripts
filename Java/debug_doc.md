@@ -8,3 +8,6 @@
 
 # Stack
 [stack explanation](https://www.geeksforgeeks.org/stack-class-in-java/)  
+
+# JDK known bug
+[JDK project list](https://bugs.openjdk.java.net/projects)  
