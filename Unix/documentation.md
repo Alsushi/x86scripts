@@ -4,6 +4,9 @@
 [CHMOD calculator](https://chmodcommand.com/chmod-2770/)  
 ## other commands
 [commands further ](http://linuxcommand.org/lc3_lts0060.php)  
+[batch commands script](https://stackoverflow.com/questions/2135644/how-can-i-define-a-bash-alias-as-a-sequence-of-multiple-commands)  
+[kill commands](https://www.tecmint.com/how-to-kill-a-process-in-linux/)  
+[kill 2](https://www.tecmint.com/how-to-kill-a-process-in-linux/)  
 
 ## Red Hat
 [Gnome Desktop](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/desktop_migration_and_administration_guide/introducing-gnome3-desktop)  
