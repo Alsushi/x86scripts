@@ -6,3 +6,5 @@
 # Java CPL
 [Java CPL](https://superuser.com/questions/322560/windows-7-unable-to-launch-java-control-panel)    
 
+# Stack
+[stack explanation](https://www.geeksforgeeks.org/stack-class-in-java/)  
