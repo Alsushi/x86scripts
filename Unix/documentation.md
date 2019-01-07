@@ -7,6 +7,8 @@
 
 ## Red Hat
 [Gnome Desktop](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/desktop_migration_and_administration_guide/introducing-gnome3-desktop)  
+### RH i8n
+[language locales](https://access.redhat.com/solutions/974273)  
 
 ## LSF
 [bhist history of jobs](https://www.ibm.com/support/knowledgecenter/en/SSETD4_9.1.2/lsf_command_ref/bhist.1.html)  
