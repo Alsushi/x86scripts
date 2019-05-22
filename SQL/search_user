@@ -1,0 +1,1 @@
+select * from adxxxx.dbo.users where uid='loginid';
