@@ -1,0 +1,3 @@
+https://openuserjs.org
+https://www.tampermonkey.net/scripts.php
+https://greasyfork.org/en/scripts?

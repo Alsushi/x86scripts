@@ -1,0 +1,33 @@
+## ## NOT WORKING OBSOLETE MACRO TOOL since FF58.
+#imacros
+VERSION BUILD=test RECORDER=FX
+TAB T=1
+URL GOTO=https://www.facebook.com/xxxxx/xxxxxxxx/photos/ - Edited
+TAG POS=1 TYPE=I ATTR=CLASS:uiMediaThumbImg&&TXT:
+TAG POS=1 TYPE=A ATTR=TXT:Remove<SP>This<SP>Photo
+TAG POS=2 TYPE=DIV ATTR=TXT:ConfirmCancel
+WAIT SECONDS=.5
+TAG POS=1 TYPE=BUTTON ATTR=TXT:Confirm
+WAIT SECONDS=2
+
+
+VERSION BUILD=test2 RECORDER=FX
+TAB T=1
+URL GOTO=https://www.facebook.com/groupsxxxxxx - edited
+TAG POS=2 TYPE=I ATTR=CLASS:uiMediaThumbImg&&TXT:
+WAIT SECONDS=.5
+TAG POS=1 TYPE=A ATTR=TXT:Remove<SP>This<SP>Photo
+TAG POS=2 TYPE=DIV ATTR=TXT:ConfirmCancel
+TAG POS=1 TYPE=BUTTON ATTR=TXT:Confirm
+URL GOTO=https://www.facebook.com/groups/1234/photos/
+TAG POS=3 TYPE=I ATTR=CLASS:uiMediaThumbImg&&TXT:
+WAIT SECONDS=.5
+TAG POS=1 TYPE=A ATTR=TXT:Remove<SP>This<SP>Photo
+TAG POS=2 TYPE=DIV ATTR=TXT:ConfirmCancel
+TAG POS=1 TYPE=BUTTON ATTR=TXT:Confirm
+URL GOTO=https://www.facebook.com/groups/1234/photos/
+TAG POS=4 TYPE=I ATTR=CLASS:uiMediaThumbImg&&TXT:
+WAIT SECONDS=.5
+TAG POS=1 TYPE=A ATTR=TXT:Remove<SP>This<SP>Photo
+TAG POS=2 TYPE=DIV ATTR=TXT:ConfirmCancel
+TAG POS=1 TYPE=BUTTON ATTR=TXT:Confirm

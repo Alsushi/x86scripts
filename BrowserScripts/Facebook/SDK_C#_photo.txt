@@ -1,0 +1,5 @@
+## SDK is clearly no help for deleting content!!!
+
+FacebookClient fb = new FacebookClient(acces_token);
+fb.DeleteComplete += (s, e) => { //... };
+fb.DeleteAsync("/photos/" + photo_id);
