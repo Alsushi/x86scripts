@@ -1,0 +1,1 @@
+shutdown -S -F -T10
