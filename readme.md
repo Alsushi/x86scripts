@@ -1,5 +1,5 @@
 
-#### This website is edited and hosted by me;
-It is a static html-css-js simplified
-###### Template by Materializecss
-###### (c) 2017
+#### This is a computer toolbar
+
+###### scripts mainly
+###### (c) 2019
