@@ -1,5 +1,7 @@
-
-#### This is a computer toolbar
-
-###### scripts mainly
-###### (c) 2019
+###### These are scripts I've found useful enough to be remembered
+* Windows :
+* * CMD
+* * PowerShell
+* Linux
+* * Shell
+* Matlab
