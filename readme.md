@@ -1,5 +1,7 @@
-
-#### This website is edited and hosted by me;
-It is a static html-css-js simplified
-###### Template by Materializecss
-###### (c) 2017
+###### These are scripts I've found useful enough to be remembered
+* Windows : 
+* * CMD
+* * PowerShell
+* Linux
+* * Shell
+* Matlab
